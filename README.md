@@ -1,2 +1,1 @@
-# GIT
-.GIT
+My first readme
